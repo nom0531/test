@@ -13,10 +13,7 @@
 
 Player::Player()
 {
-	// Œø‰Ê‰¹
-	g_soundEngine->ResistWaveFileBank(20, "Assets/sound/Player_Attack.wav");
-	g_soundEngine->ResistWaveFileBank(21, "Assets/sound/Enemy_Attack.wav");
-	g_soundEngine->ResistWaveFileBank(22, "Assets/sound/Player_Foots.wav");
+	
 
 	SetPointer();
 
